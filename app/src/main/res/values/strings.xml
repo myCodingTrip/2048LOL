@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">2048-LOL</string>
+    <string name="start">重新开始</string>
+    <string name="score">分数:</string>
+    <string name="bestscore">最高分:</string>
+    <string name="appinfo">作者：MY</string>
+</resources>
